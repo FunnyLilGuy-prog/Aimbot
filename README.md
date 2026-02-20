@@ -1,3 +1,3 @@
 # Aimbot
-My first aimbot LUA script
+My first open source aimbot LUA script
 u need an exe (weao.xyz)
